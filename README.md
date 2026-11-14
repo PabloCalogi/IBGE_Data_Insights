@@ -2,7 +2,7 @@
 
 O **IBGE Data Insights** é uma aplicação desenvolvida em C# e .NET MAUI focada no consumo dinâmico e encadeado de APIs REST. Utilizando o padrão de arquitetura em camadas para separar regras de negócio, serviços HTTP e interface gráfica, o sistema liga-se às APIs abertas do IBGE (Localidades e Nomes). O objetivo da ferramenta é cruzar dados geográficos e demográficos em tempo real, permitindo aos utilizadores descobrir instantaneamente os nomes mais registados na sua região, de acordo com o Censo 2022.
 
-## 👥 Integrantes da Equipa
+## 👥 Integrantes da Equipe
 - Pablo Henrique Silva Calogi
 - Juliano Tempesta
 
